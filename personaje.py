@@ -15,4 +15,4 @@ class Personaje:
         print(f"Mi defensa es {self.defensa}")
 
 jugador1 = Personaje("Juan", 100, 20, 100, 1, 10)
-jugador1.saludarsd()
+jugador1.saludar()
